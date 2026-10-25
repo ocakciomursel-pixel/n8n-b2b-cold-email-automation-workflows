@@ -1,0 +1,27 @@
+{
+  "name": "n8n-b2b-cold-email-automation-workflows",
+  "version": "2.0.0",
+  "description": "Production-ready n8n (.json) and Make.com automation blueprints for B2B domain enrichment, ATS hiring triggers, Shopify price alerts, and technical SEO audits.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "n8n-b2b-cold-email-automation-workflows": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "n8n",
+    "n8n-workflows",
+    "make-com",
+    "cold-email",
+    "lead-generation",
+    "workflow-automation",
+    "b2b-sales",
+    "agency-tools",
+    "zapier-alternative",
+    "web-scraping",
+    "marketing-automation"
+  ],
+  "license": "MIT"
+}
