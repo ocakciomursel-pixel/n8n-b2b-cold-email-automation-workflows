@@ -1,3 +1,10 @@
+> ### ⚡ Instant Download: 1,125 Live-Verified US B2B Leads + Clay 25x & 7x n8n Pro Agency Vault
+> - 💳 **[Instant Card / Apple Pay Checkout & Auto-Download (.ZIP) — $10 / $20 / $30 →](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/checkout.html)** *(Zero subscriptions • Automated instant browser `.ZIP` decryption & download)*
+> - 📥 **[Download Free 30-Row Verified B2B Sample CSV First →](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/sample-leads-30-verified.csv)** *(SEC Form D Newly Funded Startups + YC Hiring + High-MRR Skool Creators + B2B Agencies)*
+> - ☁️ **[Run Live Self-Serve Cloud Scrapers on Apify ($3.50–$4.50 / 1k) →](https://apify.com/lucacelli)**
+
+---
+
 # N8n B2b Cold Email Automation Workflows (n8n, Claude MCP & Cloud API)
 
 [![Run on Apify Cloud](https://img.shields.io/badge/Apify_Cloud_Actor-Run_Now_(%240.80%2F1k)-16a34a?style=for-the-badge&logo=apify)](https://apify.com/lucacelli/b2b-domain-contact-tech-enricher)
